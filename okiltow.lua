@@ -21,7 +21,7 @@ end
 local count = 0
 local success = 0
 local failure = 0
-local total = #remotes
+local total = 20
 
 if remotesFolder then
     for _, remoteName in ipairs(remotes) do
@@ -100,3 +100,5 @@ print(":: Malfunction :: Cleanup Summary")
 print(string.format(":: Malfunction :: Success: %d (%.2f%%)", success, successRate))
 print(string.format(":: Malfunction :: Failure: %d (%.2f%%)", failure, failureRate))
 print(":: Malfunction:: --[[ Diac.logs Removed Successfull ]]--")
+wait(1)
+print("Look above, Adonis crying in my room, btw you get kicked in >300 seconds, only got kicked, you can rejoin back to the game.")
