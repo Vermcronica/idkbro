@@ -1,3 +1,10 @@
+--[[
+    Idk why I publish this, I make (maybe) a bypass of anticheat in One Kill Tower, taht game sucks
+    made by Prystalism.
+    discord: https://discord.gg/BBXnm9R5Cj
+]]
+
+
 local remotes = {
     "BPCheck", "DonationGUI", "ReportUIS", "DamageEvent", "AFKRemote",
     "PingPong", "LogErrorToClient", "NextbotAnalytic", "ServerNotify", "SummonGui",
