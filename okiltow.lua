@@ -1,5 +1,5 @@
 --[[
-    Idk why I publish this, I make (maybe) a bypass of anticheat in One Kill Tower, taht game sucks
+    Idk why I publish this, I make (maybe) a bypass of anticheat in One Kill Tower, taht game sucks. OPEN SOURCE (its not viruses bruh)
     made by Prystalism.
     discord: https://discord.gg/BBXnm9R5Cj
 ]]
